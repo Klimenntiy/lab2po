@@ -27,13 +27,6 @@
  + [Климентий](https://github.com/Klimenntiy)
 
 ## Ссылки на ветки
-### Вадим
- + [develop](https://github.com/lipipidronstudy/lab2po/tree/developVadim)
- + [hotfix](https://github.com/lipipidronstudy/lab2po/tree/hotfixVadim)
- + [fitch](https://github.com/lipipidronstudy/lab2po/tree/fitchVadim)
- + [realese](https://github.com/lipipidronstudy/lab2po/tree/realeseVadim)
-
-### Климентий
  + [develop](https://github.com/Klimenntiy/lab2po/tree/meow_develop)
  + [hotfix](https://github.com/Klimenntiy/lab2po/tree/meow_hot_fix)
  + [fitch](https://github.com/Klimenntiy/lab2po/tree/meow_fitc)
@@ -41,11 +34,6 @@
  + [ветка из 1 пункта](https://github.com/Klimenntiy/lab2po/tree/meow)
 
 ## Ссылки на теги
-### Вадим
- + [v1.1-char](https://github.com/lipipidronstudy/lab2po/releases/tag/v1.1-char)
- + [v1.2-Fbugs](https://github.com/lipipidronstudy/lab2po/releases/tag/v1.2-Fbugs)
-
-### Климентий
  + [v1.1-char](https://github.com/Klimenntiy/lab2po/releases/tag/v1.1-char)
  + [v1.2-fix](https://github.com/Klimenntiy/lab2po/releases/tag/v1.2-fix)
 
