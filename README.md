@@ -1,3 +1,6 @@
+Познакомьтесь с Git — обучающие материалы, процессы и команды
+Изучите Git по обучающим материалам для всех уровней (от новичка до продвинутого пользователя): процессы, команды Git, миграция Git и проверка кода.
+
 # Lab2
 
 ## Тех.задание
@@ -27,6 +30,13 @@
  + [Климентий](https://github.com/Klimenntiy)
 
 ## Ссылки на ветки
+### Вадим
+ + [develop](https://github.com/lipipidronstudy/lab2po/tree/developVadim)
+ + [hotfix](https://github.com/lipipidronstudy/lab2po/tree/hotfixVadim)
+ + [fitch](https://github.com/lipipidronstudy/lab2po/tree/fitchVadim)
+ + [realese](https://github.com/lipipidronstudy/lab2po/tree/realeseVadim)
+
+### Климентий
  + [develop](https://github.com/Klimenntiy/lab2po/tree/meow_develop)
  + [hotfix](https://github.com/Klimenntiy/lab2po/tree/meow_hot_fix)
  + [fitch](https://github.com/Klimenntiy/lab2po/tree/meow_fitc)
@@ -34,10 +44,15 @@
  + [ветка из 1 пункта](https://github.com/Klimenntiy/lab2po/tree/meow)
 
 ## Ссылки на теги
+### Вадим
+ + [v1.1-char](https://github.com/lipipidronstudy/lab2po/releases/tag/v1.1-char)
+ + [v1.2-Fbugs](https://github.com/lipipidronstudy/lab2po/releases/tag/v1.2-Fbugs)
+
+### Климентий
  + [v1.1-char](https://github.com/Klimenntiy/lab2po/releases/tag/v1.1-char)
  + [v1.2-fix](https://github.com/Klimenntiy/lab2po/releases/tag/v1.2-fix)
 
 ## Отчёты
- + [1-2 тех.задания](https://github.com/lipipidronstudy/lab2po/blob/main/M3113_%D0%9A%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%D0%92%D0%92_%D0%90%D0%BD%D0%B8%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%9A%D0%90_%D0%9B%D0%B0%D0%B12.pdf)
+ + [1-2 тех.задания(Вадим)](https://github.com/lipipidronstudy/lab2po/blob/main/%D0%9C3113_%D0%9A%D1%80%D0%B0%D0%BC%D1%81%D0%BA%D0%BE%D0%B9%D0%92%D0%92_%D0%9B%D0%B0%D0%B12.pdf)
+ + [1-2 техюзадания(Климентий)](https://github.com/lipipidronstudy/lab2po/blob/main/%D0%9C3113_%D0%90%D0%BD%D0%B8%D1%81%D1%8C%D0%BA%D0%B8%D0%BD%D0%9A%D0%90_%D0%9B%D0%B0%D0%B12.pdf)
  + [Справочник основных комант Git с примерами](https://github.com/lipipidronstudy/lab2po/blob/main/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20GIT.pdf)
-
